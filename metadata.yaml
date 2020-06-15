@@ -1,0 +1,39 @@
+_repo: Da-un-carteggio-inedito_62339
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Messeri, Antonio
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '51906'
+    url: http://www.gutenberg.org/2009/agents/51906
+creator:
+  author:
+    agent_name: Carducci, Giosuè
+    aliases:
+    - Enotrio, Romano
+    - Romano, Enotrio
+    - Carducci, Giosue
+    birthdate: 1835
+    deathdate: 1907
+    gutenberg_agent_id: '43982'
+    url: http://www.gutenberg.org/2009/agents/43982
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Giosu%C3%A8_Carducci
+    - https://en.wikipedia.org/wiki/Giosu%C3%A8_Carducci
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62339'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pasolini-Zanelli, Silvia, contessa'
+- !lcsh 'Carducci, Giosuè, 1835-1907 -- Correspondence'
+- !lcc 'PQ'
+- GITenberg
+title: Da un carteggio inedito
+url: http://www.gutenberg.org/ebooks/62339
