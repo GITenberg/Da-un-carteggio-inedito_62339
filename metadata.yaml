@@ -1,5 +1,5 @@
 _repo: Da-un-carteggio-inedito_62339
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Messeri, Antonio
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '51906'
     url: http://www.gutenberg.org/2009/agents/51906
+covers:
+- cover_type: archival
+  image_path: 62339-h/images/cover.jpg
 creator:
   author:
     agent_name: Carducci, Giosuè
@@ -22,6 +25,8 @@ creator:
     - https://it.wikipedia.org/wiki/Giosu%C3%A8_Carducci
     - https://en.wikipedia.org/wiki/Giosu%C3%A8_Carducci
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62339#Da-un-carteggio-inedito
 gutenberg_issued: '2020-06-08'
 gutenberg_type: Text
 identifiers:
